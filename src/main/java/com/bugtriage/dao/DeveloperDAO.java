@@ -1,4 +1,4 @@
 package com.bugtriage.dao;
 
-public class PerformanceDAO {
+public class DeveloperDAO {
 }
